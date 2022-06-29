@@ -19,6 +19,7 @@
 :root {
   --green-color--dark: #004d61;
   --blue-color--dark: #002f5b;
+  --cyan-color: rgb(27, 169, 213);
   --gray-color: #e6e8ea;
   --brown-color: rgb(178, 112, 0);
   --gray-red: #f00; /* c: 0 m: 100 y: 100 k: 0 */
@@ -31,11 +32,14 @@
 }
 
 h1,
-h2 {
+h2,
+h3 {
+  font-family: "Work Sans", "Noto Emoji", sans-serif;
   font-weight: 900;
-  letter-spacing: 0.03em;
+  letter-spacing: 0.02em;
   margin-top: 0;
   margin-bottom: 0.45em;
+  line-height: 1.1;
 }
 
 h1 {
@@ -48,6 +52,11 @@ h1 {
 h2 {
   font-size: 1.3rem;
   color: var(--green-color--dark);
+  /* margin-bottom: 0.3em; */
+}
+h3 {
+  font-size: 1.1rem;
+  /* color: var(--green-color--dark); */
   /* margin-bottom: 0.3em; */
 }
 
@@ -70,3 +79,41 @@ ul {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 } */
+
+img {
+  display: block;
+  height: 13rem;
+  width: auto;
+}
+
+a {
+  text-decoration: none;
+  color: var(--green-color--dark);
+}
+
+a:visited {
+  color: var(--blue-color--dark);
+}
+
+a:hover {
+  color: inherit;
+}
+
+a[target="_blank"]:after {
+  content: " ↗";
+  font-size: 75%;
+  /* font-weight: $open-sans-400-75p-compensated; */
+}
+
+em {
+  font-style: normal;
+  /* color: yellow; */
+  color: var(--cyan-color);
+}
+strong {
+  font-style: normal;
+  font-weight: 400;
+  /* color: var(--brown-color);
+  color: var(--cyan-color); */
+  color: yellow;
+}

@@ -11,7 +11,9 @@ function extractFrontMatter(str) {
   let body = str;
 
   try {
-    const frontmatter = fm(str);
+    const md = str.replaceAll("```fm", "---").replace("```", "---");
+    console.log({ md });
+    const frontmatter = fm(md);
 
     attributes = get(frontmatter, "attributes");
     body = get(frontmatter, "body");
