@@ -1,13 +1,21 @@
 ---
 theme: signalwerk
-title: Presentation Title
+title: Portfolio, Blog und Typografie
 slide:
   class: center
 ---
 
+## Subline
+
 # {{process.content.frontmatter.title}}
 
-## Subline
+Test here
+
+<footer>
+
+!!! Stefan Huber, Zürich – 2022 <!-- .element: class="footer" -->
+
+</footer>
 
 --s--
 
@@ -20,6 +28,13 @@ class: top
 ## Slide one
 
 Hello World!
+
+* One of the most popular
+* One of the most popular
+* One of the most popular
+* One of the most popular
+
+
 
 --s--
 --s--

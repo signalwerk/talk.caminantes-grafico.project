@@ -4,6 +4,8 @@ import Slide from "../Slide";
 import { processMD } from "./gfm";
 import useAsync from "../../hooks/useAsync";
 
+import "./styles.css";
+
 function Component({ data }) {
   //   const { value, loading, error } = useAsync(processMD, [data.slide.raw]);
   //   const state = useAsync(() => fetch(url).text(), [url])
@@ -23,10 +25,17 @@ function Component({ data }) {
     );
 
   return (
-    <div className="Slide">
-      <div className="slide__md" dangerouslySetInnerHTML={{ __html: value }} />
+    <div className="slide">
+      <div className="slides__stage">
+        <div className="slides__stage-inner">
+          <div
+            className="slides__content"
+            dangerouslySetInnerHTML={{ __html: value }}
+          />
 
-      <pre>{("obj", JSON.stringify(data, null, 2))}</pre>
+          {/* <pre>{("obj", JSON.stringify(data, null, 2))}</pre> */}
+        </div>
+      </div>
     </div>
   );
 }

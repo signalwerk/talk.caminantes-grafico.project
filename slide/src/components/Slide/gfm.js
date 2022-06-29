@@ -19,8 +19,12 @@ const processor = unified()
   //     footnote({ markdownAST: tree });
   //     // console.dir(tree);
   //   })
-  .use(remarkRehype)
-  .use(rehypeStringify);
+//   .use(remarkRehype)
+//   .use(rehypeStringify);
+
+
+  .use(remarkRehype, {allowDangerousHtml: true}) // Pass raw HTML strings through.
+  .use(rehypeStringify, {allowDangerousHtml: true}) // Serialize the raw HTML strings
 
 export function processMD(md) {
   console.log("processing", md);

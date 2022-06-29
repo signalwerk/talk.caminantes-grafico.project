@@ -1,13 +1,72 @@
-body {
+:root {
+  font-family: "Work Sans", sans-serif;
+
+  /* font-size: 10px; */
+  --font-size: 32;
+  --slide-width: 960;
+  --slide-height: 700;
+
+  font-size: min(
+    calc(100vh / (var(--slide-height) / var(--font-size))),
+    calc(100vw / (var(--slide-width) / var(--font-size)))
+  );
+
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+
+  line-height: 1.5;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+:root {
+  --green-color--dark: #004d61;
+  --blue-color--dark: #002f5b;
+  --gray-color: #e6e8ea;
+  --brown-color: rgb(178, 112, 0);
+  --gray-red: #f00; /* c: 0 m: 100 y: 100 k: 0 */
 }
+
+::selection {
+  color: #fff;
+  background: red;
+  text-shadow: none;
+}
+
+h1,
+h2 {
+  font-weight: 900;
+  letter-spacing: 0.03em;
+  margin-top: 0;
+  margin-bottom: 0.45em;
+}
+
+h1 {
+  font-size: 1.7rem;
+  /* margin-top: 0.7em;
+  margin-bottom: 0.7em; */
+  color: var(--blue-color--dark);
+}
+
+h2 {
+  font-size: 1.3rem;
+  color: var(--green-color--dark);
+  /* margin-bottom: 0.3em; */
+}
+
+body {
+  margin: 0;
+}
+
+p,
+li {
+  margin-top: 0;
+  margin-bottom: 0.3em;
+}
+
+ul {
+  margin-top: 0.3em;
+  margin-bottom: 0.3em;
+}
+
+/* code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+} */
