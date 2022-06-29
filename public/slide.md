@@ -17,6 +17,15 @@ Test here
 
 </footer>
 
+
+
+
+
+--s--
+
+![Portrait Stefan Huber](https://portrait.signalwerk.ch/illustration/2020/rgb/w2000/stefan-huber.jpg)
+
+
 --s--
 
 ---
