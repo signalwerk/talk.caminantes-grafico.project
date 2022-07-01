@@ -92,6 +92,14 @@ function Component({ md }) {
     setSelect((parsed) => clamp(parsed - 1, 0, count));
   });
 
+  useKeypress("PageUp", () => {
+    setSelect((parsed) => clamp(parsed + 1, 0, count));
+  });
+
+  useKeypress("PageDown", () => {
+    setSelect((parsed) => clamp(parsed - 1, 0, count));
+  });
+
   return (
     <div className="Slides">
       {/* <h1>select:{select}</h1> */}

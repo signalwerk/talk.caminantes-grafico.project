@@ -1,5 +1,5 @@
 :root {
-  font-family: "Work Sans", sans-serif;
+  font-family: "Work Sans", "Noto Emoji", sans-serif;
 
   /* font-size: 10px; */
   --font-size: 32;
@@ -19,7 +19,7 @@
 :root {
   --green-color--dark: #004d61;
   --blue-color--dark: #002f5b;
-  --cyan-color: rgb(27, 169, 213);
+  --cyan-color: rgb(25, 160, 202);
   --gray-color: #e6e8ea;
   --brown-color: rgb(178, 112, 0);
   --gray-red: #f00; /* c: 0 m: 100 y: 100 k: 0 */
@@ -113,7 +113,5 @@ em {
 strong {
   font-style: normal;
   font-weight: 400;
-  /* color: var(--brown-color);
-  color: var(--cyan-color); */
   color: yellow;
 }
