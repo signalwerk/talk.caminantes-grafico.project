@@ -148,13 +148,13 @@ background: true
 style: image
 class: text-shadow
 background:
-  image: http://localhost:3006/ARCHIVE/cg-vortrag/resize@width:1920/cg-tst.jpg
+  image: ./img/cg_gs.jpg
   position: 50% 50%
 ```
 
 ## Michael & Me
 
-
+<!-- image taken from CG-Website -->
 
 --s--
 ## Preparation
@@ -165,7 +165,7 @@ background:
 style: image
 class: text-shadow
 background:
-  image: http://localhost:3006/ARCHIVE/2011%20CG%20Pressebilder/final/Bilder/resize@width:1920/P1040829.JPG
+  image: ./img/ARCHIVE/2011%20CG%20Pressebilder/final/Bilder/resize@width:1920/P1040829.JPG
   position: 50% 50%
 ```
 
@@ -179,7 +179,7 @@ background:
 style: image
 class: text-shadow
 background:
-  image: http://localhost:3006/ARCHIVE/2011%20CG%20Vortrag%20Hyperwerk/IDD/Links/resize@width:1920/P1000631.JPG
+  image: ./img/ARCHIVE/2011%20CG%20Vortrag%20Hyperwerk/IDD/Links/resize@width:1920/P1000631.JPG
   position: 50% 50%
 ```
 
@@ -193,7 +193,7 @@ background:
 style: image
 class: text-shadow
 background:
-  image: http://localhost:3006/ARCHIVE/2011%20CG%20Vortrag%20Hyperwerk/IDD/Links/resize@width:1920/P1000634.JPG
+  image: ./img/ARCHIVE/2011%20CG%20Vortrag%20Hyperwerk/IDD/Links/resize@width:1920/P1000634.JPG
   position: 50% 50%
 ```
 
@@ -206,7 +206,7 @@ background:
 style: image
 class: text-shadow
 background:
-  image: http://localhost:3006/ARCHIVE/2011%20CG%20Vortrag%20Hyperwerk/IDD/Links/resize@width:1920/P1000655.JPG
+  image: ./img/ARCHIVE/2011%20CG%20Vortrag%20Hyperwerk/IDD/Links/resize@width:1920/P1000655.JPG
   position: 50% 50%
 ```
 
@@ -218,7 +218,7 @@ background:
 style: image
 class: text-shadow
 background:
-  image: http://localhost:3006/ARCHIVE/2011%20CG%20Vortrag%20Hyperwerk/IDD/Links/resize@width:1920/P1000744.JPG
+  image: ./img/ARCHIVE/2011%20CG%20Vortrag%20Hyperwerk/IDD/Links/resize@width:1920/P1000744.JPG
   position: 50% 50%
 ```
 
@@ -230,7 +230,7 @@ background:
 style: image
 class: text-shadow
 background:
-  image: http://localhost:3006/ARCHIVE/2011%20CG%20Vortrag%20Hyperwerk/IDD/Links/resize@width:1920/P1000793.JPG
+  image: ./img/ARCHIVE/2011%20CG%20Vortrag%20Hyperwerk/IDD/Links/resize@width:1920/P1000793.JPG
   position: 50% 50%
 ```
 
@@ -242,7 +242,7 @@ background:
 style: image
 class: text-shadow
 background:
-  image: http://localhost:3006/ARCHIVE/2011%20CG%20Vortrag%20Hyperwerk/IDD/Links/resize@width:1920/P1000805.JPG
+  image: ./img/ARCHIVE/2011%20CG%20Vortrag%20Hyperwerk/IDD/Links/resize@width:1920/P1000805.JPG
   position: 50% 50%
 ```
 
@@ -254,7 +254,7 @@ background:
 style: image
 class: text-shadow
 background:
-  image: http://localhost:3006/ARCHIVE/2011%20CG%20Vortrag%20Hyperwerk/IDD/Links/resize@width:1920/P1000864.JPG
+  image: ./img/ARCHIVE/2011%20CG%20Vortrag%20Hyperwerk/IDD/Links/resize@width:1920/P1000864.JPG
   position: 50% 50%
 ```
 
@@ -266,7 +266,7 @@ background:
 style: image
 class: text-shadow
 background:
-  image: http://localhost:3006/ARCHIVE/2011%20CG%20Vortrag%20Hyperwerk/IDD/Links/resize@width:1920/P1010003.JPG
+  image: ./img/ARCHIVE/2011%20CG%20Vortrag%20Hyperwerk/IDD/Links/resize@width:1920/P1010003.JPG
   position: 50% 50%
 ```
 
@@ -278,7 +278,7 @@ background:
 style: image
 class: text-shadow
 background:
-  image: http://localhost:3006/ARCHIVE/2011%20CG%20Vortrag%20Hyperwerk/IDD/Links/resize@width:1920/P1010016.JPG
+  image: ./img/ARCHIVE/2011%20CG%20Vortrag%20Hyperwerk/IDD/Links/resize@width:1920/P1010016.JPG
   position: 50% 50%
 ```
 
@@ -301,7 +301,7 @@ background:
 style: image
 class: text-shadow
 background:
-  image: http://localhost:3006/ARCHIVE/2011%20CG%20pics/__michi%20bilder/San%20Francisco/resize@width:1920/L1070945.JPG
+  image: ./img/ARCHIVE/2011%20CG%20pics/__michi%20bilder/San%20Francisco/resize@width:1920/L1070945.JPG
   position: 50% 50%
 ```
 
@@ -313,7 +313,7 @@ background:
 style: image
 class: text-shadow
 background:
-  image: http://localhost:3006/ARCHIVE/2011%20CG%20pics/__michi%20bilder/San%20Francisco/resize@width:1920/L1070947.JPG
+  image: ./img/ARCHIVE/2011%20CG%20pics/__michi%20bilder/San%20Francisco/resize@width:1920/L1070947.JPG
   position: 50% 50%
 ```
 
@@ -327,7 +327,7 @@ background:
 style: image
 class: text-shadow
 background:
-  image: http://localhost:3006/ARCHIVE/2011%20CG%20pics/__michi%20bilder/Los%20Angeles/resize@width:1920/L1080314.JPG
+  image: ./img/ARCHIVE/2011%20CG%20pics/__michi%20bilder/Los%20Angeles/resize@width:1920/L1080314.JPG
   position: 50% 50%
 ```
 
@@ -342,7 +342,7 @@ background:
 style: image
 class: text-shadow
 background:
-  image: http://localhost:3006/ARCHIVE/2011%20CG%20pics/__michi%20bilder/Los%20Angeles/resize@width:1920/L1080316.JPG
+  image: ./img/ARCHIVE/2011%20CG%20pics/__michi%20bilder/Los%20Angeles/resize@width:1920/L1080316.JPG
   position: 50% 50%
 ```
 
@@ -355,7 +355,7 @@ background:
 style: image
 class: text-shadow
 background:
-  image: http://localhost:3006/ARCHIVE/2011%20CG%20pics/__michi%20bilder/San%20Francisco/resize@width:1920/L1070948.JPG
+  image: ./img/ARCHIVE/2011%20CG%20pics/__michi%20bilder/San%20Francisco/resize@width:1920/L1070948.JPG
   position: 50% 50%
 ```
 
@@ -367,7 +367,7 @@ background:
 style: image
 class: text-shadow
 background:
-  image: http://localhost:3006/ARCHIVE/2011%20CG%20pics/__michi%20bilder/San%20Francisco/resize@width:1920/L1070949.JPG
+  image: ./img/ARCHIVE/2011%20CG%20pics/__michi%20bilder/San%20Francisco/resize@width:1920/L1070949.JPG
   position: 50% 50%
 ```
 
@@ -379,7 +379,7 @@ background:
 style: image
 class: text-shadow
 background:
-  image: http://localhost:3006/ARCHIVE/2011%20CG%20pics/__michi%20bilder/San%20Francisco/resize@width:1920/L1070962.JPG
+  image: ./img/ARCHIVE/2011%20CG%20pics/__michi%20bilder/San%20Francisco/resize@width:1920/L1070962.JPG
   position: 50% 50%
 ```
 
@@ -391,7 +391,7 @@ background:
 style: image
 class: text-shadow
 background:
-  image: http://localhost:3006/ARCHIVE/2011%20CG%20pics/__michi%20bilder/San%20Francisco/resize@width:1920/L1070977.JPG
+  image: ./img/ARCHIVE/2011%20CG%20pics/__michi%20bilder/San%20Francisco/resize@width:1920/L1070977.JPG
   position: 50% 60%
 ```
 
@@ -403,7 +403,7 @@ background:
 style: image
 class: text-shadow
 background:
-  image: http://localhost:3006/ARCHIVE/2011%20CG%20pics/pics%20part%201/resize@width:1920/P1040588.JPG
+  image: ./img/ARCHIVE/2011%20CG%20pics/pics%20part%201/resize@width:1920/P1040588.JPG
   position: 50% 50%
 ```
 
@@ -416,7 +416,7 @@ background:
 style: image
 class: text-shadow
 background:
-  image: http://localhost:3006/ARCHIVE/2011%20CG%20pics/__michi%20bilder/San%20Francisco/resize@width:1920/L1080003.JPG
+  image: ./img/ARCHIVE/2011%20CG%20pics/__michi%20bilder/San%20Francisco/resize@width:1920/L1080003.JPG
   position: 50% 50%
 ```
 
@@ -429,7 +429,7 @@ background:
 style: image
 class: text-shadow
 background:
-  image: http://localhost:3006/ARCHIVE/2011%20CG%20pics/__michi%20bilder/Sausalito/resize@width:1920/L1080199.JPG
+  image: ./img/ARCHIVE/2011%20CG%20pics/__michi%20bilder/Sausalito/resize@width:1920/L1080199.JPG
   position: 50% 50%
 ```
 
@@ -444,7 +444,7 @@ background:
 style: image
 class: text-shadow
 background:
-  image: http://localhost:3006/ARCHIVE/2011%20CG%20pics/__michi%20bilder/San%20Francisco/resize@width:1920/L1080006.JPG
+  image: ./img/ARCHIVE/2011%20CG%20pics/__michi%20bilder/San%20Francisco/resize@width:1920/L1080006.JPG
   position: 50% 50%
 ```
 
@@ -457,7 +457,7 @@ background:
 style: image
 class: text-shadow
 background:
-  image: http://localhost:3006/ARCHIVE/2011%20CG%20pics/__michi%20bilder/San%20Francisco/resize@width:1920/L1080180.JPG
+  image: ./img/ARCHIVE/2011%20CG%20pics/__michi%20bilder/San%20Francisco/resize@width:1920/L1080180.JPG
   position: 50% 50%
 ```
 
@@ -471,7 +471,7 @@ background:
 style: image
 class: text-shadow
 background:
-  image: http://localhost:3006/ARCHIVE/2011%20CG%20pics/__michi%20bilder/Los%20Angeles/resize@width:1920/L1080350.JPG
+  image: ./img/ARCHIVE/2011%20CG%20pics/__michi%20bilder/Los%20Angeles/resize@width:1920/L1080350.JPG
   position: 50% 50%
 ```
 
@@ -483,7 +483,7 @@ background:
 style: image
 class: text-shadow
 background:
-  image: http://localhost:3006/ARCHIVE/2011%20CG%20pics/__michi%20bilder/Los%20Angeles/resize@width:1920/L1080359.JPG
+  image: ./img/ARCHIVE/2011%20CG%20pics/__michi%20bilder/Los%20Angeles/resize@width:1920/L1080359.JPG
   position: 50% 50%
 ```
 
@@ -498,7 +498,7 @@ background:
 style: image
 class: text-shadow
 background:
-  image: http://localhost:3006/ARCHIVE/2011%20CG%20pics/__michi%20bilder/Desert%20Hot%20Springs/resize@width:1920/L1080523.JPG
+  image: ./img/ARCHIVE/2011%20CG%20pics/__michi%20bilder/Desert%20Hot%20Springs/resize@width:1920/L1080523.JPG
   position: 50% 50%
 ```
 
@@ -513,7 +513,7 @@ background:
 style: image
 class: text-shadow
 background:
-  image: http://localhost:3006/ARCHIVE/2011%20CG%20pics/Michi%20Part%201/allan_chioko/crop@width:3248,height:1500;resize@width:1920/L1080491.JPG
+  image: ./img/ARCHIVE/2011%20CG%20pics/Michi%20Part%201/allan_chioko/crop@width:3248,height:1500;resize@width:1920/L1080491.JPG
   position: 50% 50%
 ```
 
@@ -526,7 +526,7 @@ background:
 style: image
 class: text-shadow
 background:
-  image: http://localhost:3006/ARCHIVE/2011%20CG%20pics/__michi%20bilder/Los%20Angeles/resize@width:1920/L1080325.JPG
+  image: ./img/ARCHIVE/2011%20CG%20pics/__michi%20bilder/Los%20Angeles/resize@width:1920/L1080325.JPG
   position: 50% 50%
 ```
 
@@ -538,7 +538,7 @@ background:
 style: image
 class: text-shadow
 background:
-  image: http://localhost:3006/ARCHIVE/2011%20CG%20pics/pics%20part%203/100_PANA/resize@width:1920/P1000014.JPG
+  image: ./img/ARCHIVE/2011%20CG%20pics/pics%20part%203/100_PANA/resize@width:1920/P1000014.JPG
   position: 50% 50%
 ```
 
@@ -549,7 +549,7 @@ background:
 style: image
 class: text-shadow
 background:
-  image: http://localhost:3006/ARCHIVE/2011%20CG%20pics/__michi%20bilder/Los%20Angeles/resize@width:1920/L1080637.JPG
+  image: ./img/ARCHIVE/2011%20CG%20pics/__michi%20bilder/Los%20Angeles/resize@width:1920/L1080637.JPG
   position: 50% 50%
 ```
 
@@ -563,7 +563,7 @@ background:
 style: image
 class: text-shadow
 background:
-  image: http://localhost:3006/ARCHIVE/2011%20CG%20pics/__michi%20bilder/Los%20Angeles/resize@width:1920/L1080619.JPG
+  image: ./img/ARCHIVE/2011%20CG%20pics/__michi%20bilder/Los%20Angeles/resize@width:1920/L1080619.JPG
   position: 50% 50%
 ```
 
@@ -576,7 +576,7 @@ background:
 style: image
 class: text-shadow
 background:
-  image: http://localhost:3006/ARCHIVE/2011%20CG%20pics/__michi%20bilder/Los%20Angeles/resize@width:1920/L1080634.JPG
+  image: ./img/ARCHIVE/2011%20CG%20pics/__michi%20bilder/Los%20Angeles/resize@width:1920/L1080634.JPG
   position: 50% 50%
 ```
 
@@ -613,7 +613,7 @@ background: true
 style: image
 class: text-shadow
 background:
-  image: http://localhost:3006/ARCHIVE/cg-vortrag/resize@width:1920/IMG_8920.jpg
+  image: ./img/IMG_8920.jpg
   position: 50% 50%
 ```
 
