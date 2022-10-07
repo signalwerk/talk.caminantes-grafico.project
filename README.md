@@ -1,4 +1,4 @@
-# talk.caminantes-grafico.project
+# Working only for food, shelter and experience in the 21st century
 
 [Show Slides](https://signalwerk.github.io/talk.caminantes-grafico.project/)
 
