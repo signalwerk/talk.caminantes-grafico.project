@@ -8,7 +8,7 @@ style: negative
 background: true
 ```
 
-## Hello *👋*
+## Hello _👋_
 
 # {{process.content.frontmatter.title}}
 
@@ -60,7 +60,7 @@ background: true
 
 - German: _Walz_, Wanderjahre, Gesellenwanderung
 - French: Tour de France du compagnonnage
-- *Journeyman years*
+- _Journeyman years_
 
 --s--
 
@@ -113,7 +113,6 @@ Image Credit: [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons
 - «popular» in _Germany, Switzerland,_ France, scandinavian countries
 - usually _NOT Designers & Developers_
 
-
 --s--
 
 ## Why did I do it?
@@ -123,13 +122,13 @@ Image Credit: [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons
 - I _know how to_ find and _learn_ new stuff
 - But what is _experience_ worth?
 
-
 --s--
 
 ```fm
 style: negative
 background: true
 ```
+
 ## 2011
 
 # Project · Caminantes Grafico
@@ -155,6 +154,7 @@ background:
 <!-- image taken from CG-Website -->
 
 --s--
+
 ## Preparation
 
 --s--
@@ -169,8 +169,6 @@ background:
 
 ## Corporate
 
-
-
 --s--
 
 ```fm
@@ -183,8 +181,6 @@ background:
 
 ## Silkscreen
 
-
-
 --s--
 
 ```fm
@@ -196,7 +192,6 @@ background:
 ```
 
 ## Silkscreen
-
 
 --s--
 
@@ -282,13 +277,14 @@ background:
 
 ## Silkscreen
 
-
-
 --s--
+
 ## Website
 
 # [↗ caminantes-grafico.org](https://caminantes-grafico.org/)
+
 --s--
+
 ## Start
 
 # 🚀 Just go!
@@ -317,8 +313,6 @@ background:
 
 ## Car
 
-
-
 --s--
 
 ```fm
@@ -331,9 +325,6 @@ background:
 
 ## Car
 
-
-
-
 --s--
 
 ```fm
@@ -345,7 +336,6 @@ background:
 ```
 
 ## Car
-
 
 --s--
 
@@ -369,7 +359,7 @@ background:
   position: 50% 50%
 ```
 
-## Jean-Benoît 
+## Jean-Benoît
 
 --s--
 
@@ -407,7 +397,6 @@ background:
 
 ## Coworking
 
-
 --s--
 
 ```fm
@@ -419,7 +408,6 @@ background:
 ```
 
 ## Jack Stauffacher
-
 
 --s--
 
@@ -433,9 +421,6 @@ background:
 
 ## Erik Adigard
 
-
-
-
 --s--
 
 ```fm
@@ -448,7 +433,6 @@ background:
 
 ## Volume Inc.
 
-
 --s--
 
 ```fm
@@ -459,9 +443,7 @@ background:
   position: 50% 50%
 ```
 
-## Jean-Benoît 
-
-
+## Jean-Benoît
 
 --s--
 
@@ -487,9 +469,6 @@ background:
 
 ## April Greiman
 
-
-
-
 --s--
 
 ```fm
@@ -502,9 +481,6 @@ background:
 
 ## Desert hot springs
 
-
-
-
 --s--
 
 ```fm
@@ -516,7 +492,6 @@ background:
 ```
 
 ## Allan and Chiyoko
-
 
 --s--
 
@@ -541,6 +516,7 @@ background:
 ```
 
 ## Garden office
+
 --s--
 
 ```fm
@@ -552,8 +528,6 @@ background:
 ```
 
 ## Garden office
-
-
 
 --s--
 
@@ -567,7 +541,6 @@ background:
 
 ## Kent Allen Jones
 
-
 --s--
 
 ```fm
@@ -580,30 +553,27 @@ background:
 
 ## Kent Allen Jones
 
-
-
-
 --s--
+
 ## Aftermath
 
 # That was great!
-* Took many *inputs* home 
-* Some *media attention*
-* *Talks* & Study
-* *Electromagnetic Field 2026 🥰*
 
---s-- 
+- Took many _inputs_ home
+- Some _media attention_
+- _Talks_ & Study
+- _Electromagnetic Field 2026 🥰_
 
+--s--
 
 ```fm
 style: negative
 background: true
 ```
+
 ## 8 years later
 
-
 # It goes on…
-
 
 --s--
 
@@ -625,7 +595,6 @@ background:
 
 --s--
 
-
 ```fm
 style: negative
 background: true
@@ -633,23 +602,17 @@ background: true
 
 ## What holds you back?
 
-# *🥳* 
+# _🥳_
+
 # Have Courage!
-
-
-
-
 
 --s--
 
 ## Mini-Walz 2026
 
-# Can you help me? 
+# Can you help me?
 
 > I’m collecting interviews about learning in the 21st century. Please come to me after the talk, and I’ll record your opinion!
-
-
-
 
 --s--
 
