@@ -1,6 +1,6 @@
 ---
 theme: signalwerk
-title: Working only for food, <br>shelter and experience in the 21st century
+title: Working only for food and shelter – an experience in the 21st century
 ---
 
 ```fm
@@ -14,7 +14,7 @@ background: true
 
 <footer>
 
-2022 · LiipConf · Stefan Huber
+2026 · Electromagnetic Field · Stefan Huber
 
 </footer>
 
@@ -32,8 +32,8 @@ background:
 
 <div class="box box--w40p box--bottom box--white box--padding small">
 
-- 3 years @ liip
-- first LiipConf (afk)
+- Developer
+- ❦ Typography
 
 </div>
 
@@ -45,7 +45,7 @@ Illustration by [Benjamin Güdel](http://www.guedel.biz/) · 2020
 
 --s--
 
-## Next 30 min
+## Next 5 min
 
 # I'm a developer but let's talk about _decissions in life_.
 
@@ -60,7 +60,7 @@ background: true
 
 - German: _Walz_, Wanderjahre, Gesellenwanderung
 - French: Tour de France du compagnonnage
-- Journeyman years
+- *Journeyman years*
 
 --s--
 
@@ -590,7 +590,7 @@ background:
 * Took many *inputs* home 
 * Some *media attention*
 * *Talks* & Study
-* *LiipConf2022 🥰*
+* *Electromagnetic Field 2026 🥰*
 
 --s-- 
 
@@ -617,11 +617,11 @@ background:
 
 ## Alexander Boenninger
 
---s-- 
-## Blogs
+<footer>
 
-* [↗ Alexander Boenninger](https://walz.alexanderboenninger.de/)
-* [↗ Blog](https://signalwerk.github.io/walz.alexanderboenninger/posts/typesetting-typeterms/)
+[Alexander Boenninger](https://alexanderboenninger.de/)
+
+</footer>
 
 --s--
 
@@ -634,7 +634,7 @@ background: true
 ## What holds you back?
 
 # *🥳* 
-# Courage what a great topic!
+# Have Courage!
 
 
 
@@ -642,6 +642,16 @@ background: true
 
 --s--
 
+## Mini-Walz 2026
+
+# Can you help me? 
+
+> I’m collecting interviews about learning in the 21st century. Please come to me after the talk, and I’ll record your opinion!
+
+
+
+
+--s--
 
 ```fm
 style: negative
@@ -650,6 +660,27 @@ background: true
 
 ## exit 0; thx
 
-# Questions?
+# _Questions?_
 
+<style>
+  .contact-links {
+    padding-bottom: 1rem;
+    font-size: .8rem;
+  }
+  .contact-links a {
+    color: white;
+  }
+  .contact-links a:after {
+    display: none;
+  }
+</style>
 
+<footer class="contact-links">
+
+**Stefan Huber** · sh@signalwerk.ch  
+[mastodon.social/@signalwerk](https://mastodon.social/@signalwerk)  
+[instagram.com/signalwerk](https://instagram.com/signalwerk)  
+[linkedin.com/in/signalwerk](https://linkedin.com/in/signalwerk)  
+[github.com/signalwerk](https://github.com/signalwerk)
+
+</footer>
