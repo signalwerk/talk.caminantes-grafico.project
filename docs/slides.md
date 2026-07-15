@@ -135,9 +135,14 @@ background: true
 
 --s--
 
-## Why would I hold this talk?
+```fm
+style: negative
+background: true
+```
 
-# Maybe I can inspire someone… <br><br>🤞
+## Why this talk?
+
+# *🤞* Maybe I can inspire someone
 
 --s--
 
@@ -155,7 +160,14 @@ background:
 
 --s--
 
-## Preparation
+```fm
+style: negative
+background: true
+```
+
+## Let's do it!
+
+# Preparation
 
 --s--
 
@@ -279,15 +291,28 @@ background:
 
 --s--
 
+
+```fm
+style: negative
+background: true
+```
+
 ## Website
 
-# [↗ caminantes-grafico.org](https://caminantes-grafico.org/)
+# [caminantes-grafico.org](https://caminantes-grafico.org/)
 
 --s--
 
+
+```fm
+style: negative
+background: true
+```
+
+
 ## Start
 
-# 🚀 Just go!
+# *🚀* Just go!
 
 --s--
 
