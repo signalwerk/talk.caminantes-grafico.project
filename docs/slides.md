@@ -45,9 +45,14 @@ Illustration by [Benjamin Güdel](http://www.guedel.biz/) · 2020
 
 --s--
 
+```fm
+style: negative
+background: true
+```
+
 ## Next 5 min
 
-# I'm a developer but let's talk about _decissions in life_.
+# _Walz_ (German)
 
 --s--
 
@@ -56,19 +61,13 @@ style: negative
 background: true
 ```
 
-## What are we talking about?
+## Walz
+
+# What are we talking about?
 
 - German: _Walz_, Wanderjahre, Gesellenwanderung
 - French: Tour de France du compagnonnage
 - _Journeyman years_
-
---s--
-
-## Walz
-
-- _after_ your first _education_
-- you go to work in _other workplaces_
-- you _don't do it for money_ but for the experience
 
 --s--
 
@@ -77,19 +76,13 @@ background: true
 - since _12th/13th century_
 - was traditon in _most craft trades_
 - form of _knowledge transfer_ between companies
-- Steering instrument on the _labour market_
 
 --s--
 
-## Traditional Rules
-
-- Traditional _uniform_ (Kluft)
-- _Logbook_ (Wanderbuch)
-- _three years and one day_ of Walz
-- not enter a _radius of 50 km around home_ town
-- …
-
---s--
+```fm
+style: negative
+background: true
+```
 
 ## Carpenter
 
@@ -107,20 +100,20 @@ Image Credit: [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons
 
 --s--
 
-## Who's doing it today?
+```fm
+style: negative
+background: true
+```
 
-- about _~30 craft trades_
-- «popular» in _Germany, Switzerland,_ France, scandinavian countries
-- usually _NOT Designers & Developers_
+## Don't get ripped off
+
+# _Not an Internship!_
 
 --s--
 
 ## Why did I do it?
 
-- My career is based on _search engines_
-- I _don't know_ much
-- I _know how to_ find and _learn_ new stuff
-- But what is _experience_ worth?
+# To gain experience 
 
 --s--
 
@@ -142,7 +135,7 @@ background: true
 
 ## Why this talk?
 
-# *🤞* Maybe I can inspire someone
+# _🤞_ Maybe I can inspire someone
 
 --s--
 
@@ -291,7 +284,6 @@ background:
 
 --s--
 
-
 ```fm
 style: negative
 background: true
@@ -303,16 +295,14 @@ background: true
 
 --s--
 
-
 ```fm
 style: negative
 background: true
 ```
 
-
 ## Start
 
-# *🚀* Just go!
+# _🚀_ Just go!
 
 --s--
 
